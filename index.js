@@ -5,7 +5,7 @@ var app = express();
 
 // You MUST change these values, consult the Messenger Platform Getting Started guide
 var verify_token = 'pass_phrase';
-var token = "EAAYwOthWMSsBAFx98syW8ZCqLmuq54IOjyJDd35CaZCSKSbHNlCZAbsvf7Qn5ZAScxD61Ihvrshy6k1IbIlDR52eZCOrFAh5PsMWZBmZCJomKkGmbKc2Ep7QxjJLn7IJyfL4faGoT8T1eE6u1ilJAVAm7T7xSBizcM5SISfFGLezgZDZD";
+var token = “EAAYwOthWMSsBAOLsB9S4p1YUyROqamrdfGBZCQE3B1fZAwcRqTPoFbOdQFziNMVUhISHxE8mjhc0N9FhItJWzdhyafYVCCfOrpF1nCGNrpu8PRhY24mwK2wty3PxMwU8j6ZBTGr1SfVRlIRePKO3nSaMxp2sroDyqpEKZALNewZDZD”;
 
 app.use(bodyParser.json());
 
